@@ -10,5 +10,13 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive. You can use the "description" section of the repository.
 - Check your spelling and grammar.
+- Beautiful is better than ugly.
+- Explicit is better than implicit.
+- Simple is better than complex.
+- Complex is better than complicated.
+- Flat is better than nested.
+- Sparse is better than dense.
+- Readability counts.
+- Special cases aren't special enough to break the rules.
 
 Thank you for your suggestions!
